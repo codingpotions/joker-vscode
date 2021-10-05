@@ -1,4 +1,4 @@
-# Joker theme 🃏
+# Joker vscode theme 🃏
 
 > Can you Introduce me as Joker?
 

@@ -1,21 +1,35 @@
 {
-    "name": "joker-theme",
-    "displayName": "joker-theme",
-    "description": "Can you Introduce me as Joker?",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Joker theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Joker theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "joker-theme",
+  "displayName": "Joker theme",
+  "publisher": "Coding Potions",
+  "author": {
+    "name": "Diego López"
+  },
+  "galleryBanner": {
+    "color": "#bd93f9",
+    "theme": "dark"
+  },
+  "bugs": {
+    "url": "https://github.com/codingpotions/joker-vscode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codingpotions/joker-vscode"
+  },
+  "description": "Can you Introduce me as Joker?",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Joker theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Joker theme-color-theme.json"
+      }
+    ]
+  }
 }
