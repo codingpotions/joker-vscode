@@ -1,0 +1,21 @@
+{
+    "name": "joker-theme",
+    "displayName": "joker-theme",
+    "description": "Can you Introduce me as Joker?",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Joker theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Joker theme-color-theme.json"
+            }
+        ]
+    }
+}
