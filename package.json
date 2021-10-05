@@ -17,7 +17,7 @@
     "url": "https://github.com/codingpotions/joker-vscode"
   },
   "description": "Can you Introduce me as Joker?",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.60.0"
   },
